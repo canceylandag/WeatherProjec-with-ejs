@@ -17,7 +17,7 @@ You can find the images of website below here.
 
 
 ![](https://github.com/canceylandag/WeatherProjec-with-ejs/blob/main/Default.png)
-![](C:\Users\cance\Desktop\Web DWvwlopmwnt\qr-code-component-main/Screenshot_Mobile.png)
+![](https://github.com/canceylandag/WeatherProjec-with-ejs/blob/main/After_api.png)
 
 
 

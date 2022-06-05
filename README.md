@@ -16,7 +16,7 @@ There are two ways to use api key
 You can find the images of website below here.
 
 
-![]([C:\Users\cance\Desktop\Web DWvwlopmwnt\qr-code-component-main/Screenshot_Desktop.png](https://github.com/canceylandag/WeatherProjec-with-ejs/blob/main/Default.png))
+![](https://github.com/canceylandag/WeatherProjec-with-ejs/blob/main/Default.png)
 ![](C:\Users\cance\Desktop\Web DWvwlopmwnt\qr-code-component-main/Screenshot_Mobile.png)
 
 
